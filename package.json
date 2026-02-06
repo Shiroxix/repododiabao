@@ -1,0 +1,19 @@
+{
+  "name": "brawl-lookup-brawlify-style",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev:all": "concurrently -n backend,frontend -c auto \"npm:dev --workspace backend\" \"npm:dev --workspace frontend\"",
+    "start:all": "npm run start --workspace backend",
+    "build": "npm run build --workspace frontend",
+    "setup": "npm install",
+    "build:all": "npm run build --workspace frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}

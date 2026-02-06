@@ -1,0 +1,68 @@
+{
+  "tag": "P90RJJY0Y",
+  "name": "DemoPlayer",
+  "nameColor": "0xffc000",
+  "icon": {
+    "id": 28000168
+  },
+  "trophies": 42000,
+  "highestTrophies": 45000,
+  "expLevel": 210,
+  "expPoints": 12345,
+  "3vs3Victories": 9000,
+  "soloVictories": 1800,
+  "duoVictories": 2200,
+  "club": {
+    "tag": "2PPQQVV",
+    "name": "DEMO CLUB"
+  },
+  "brawlers": [
+    {
+      "id": 16000000,
+      "name": "SHELLY",
+      "power": 11,
+      "rank": 30,
+      "trophies": 850,
+      "highestTrophies": 900,
+      "gadgets": [
+        {
+          "id": 23000255,
+          "name": "Fast Forward"
+        }
+      ],
+      "starPowers": [
+        {
+          "id": 23000076,
+          "name": "Shell Shock"
+        }
+      ],
+      "gears": [
+        {
+          "id": 62000000,
+          "name": "Speed"
+        }
+      ]
+    },
+    {
+      "id": 16000001,
+      "name": "NITA",
+      "power": 10,
+      "rank": 28,
+      "trophies": 730,
+      "highestTrophies": 800,
+      "gadgets": [
+        {
+          "id": 23000256,
+          "name": "Bear Paws"
+        }
+      ],
+      "starPowers": [
+        {
+          "id": 23000077,
+          "name": "Hyper Bear"
+        }
+      ],
+      "gears": []
+    }
+  ]
+}

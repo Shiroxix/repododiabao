@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "battleTime": "20260205T120000.000Z",
+      "event": {
+        "id": 15000023,
+        "mode": "gemGrab",
+        "map": "Hard Rock Mine"
+      },
+      "battle": {
+        "mode": "gemGrab",
+        "type": "ranked",
+        "result": "victory",
+        "duration": 118,
+        "starPlayer": {
+          "tag": "P90RJJY0Y",
+          "name": "DemoPlayer",
+          "brawler": {
+            "id": 16000000,
+            "name": "SHELLY",
+            "power": 11,
+            "trophies": 850
+          }
+        },
+        "teams": [
+          [
+            {
+              "tag": "P90RJJY0Y",
+              "name": "DemoPlayer",
+              "brawler": {
+                "id": 16000000,
+                "name": "SHELLY",
+                "power": 11
+              }
+            },
+            {
+              "tag": "AAA",
+              "name": "Mate1",
+              "brawler": {
+                "id": 16000001,
+                "name": "NITA",
+                "power": 10
+              }
+            },
+            {
+              "tag": "BBB",
+              "name": "Mate2",
+              "brawler": {
+                "id": 16000002,
+                "name": "COLT",
+                "power": 9
+              }
+            }
+          ],
+          [
+            {
+              "tag": "CCC",
+              "name": "Enemy1",
+              "brawler": {
+                "id": 16000003,
+                "name": "BULL",
+                "power": 10
+              }
+            },
+            {
+              "tag": "DDD",
+              "name": "Enemy2",
+              "brawler": {
+                "id": 16000004,
+                "name": "BROCK",
+                "power": 9
+              }
+            },
+            {
+              "tag": "EEE",
+              "name": "Enemy3",
+              "brawler": {
+                "id": 16000005,
+                "name": "EL PRIMO",
+                "power": 10
+              }
+            }
+          ]
+        ],
+        "trophyChange": 8
+      }
+    }
+  ]
+}
